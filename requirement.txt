@@ -1,0 +1,2 @@
+java==1.8
+netty==4.1.36.Final
